@@ -6,4 +6,4 @@ U-Net was originally developed for biomedical image segmentation (Ronneberger et
 
 ### References
 ##### Ronneberger et al., 2015. U Net: Convolutional Networks for biomedical image segmentation . https://arxiv.org/pdf/1505.04597.pdf
-##### Li et al., 2019. Seismic fault detection using an encoderdecoder convolutional neural network with a small training set. Journ al of Geophysics and Engineering, 16, 175-189
+##### Li et al., 2019. Seismic fault detection using an encoder decoder convolutional neural network with a small training set. Journal of Geophysics and Engineering, 16, 175-189
