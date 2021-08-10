@@ -4,7 +4,7 @@ Anomalies in subsurface cause diffraction hyperbolas in GPR profile. An attempt 
 
 U-Net was originally developed for biomedical image segmentation (Ronneberger et al 2015) and has later on been successfully used for seismic interpretation (Li et al 2019). A U-Net consists of a contracting path which follows the typical architecture of a convolutional network, and a symmetric expanding path that enables precise localization. I t has advantage in requiring less training images and yielding more precise segmentations (Ronneberger et al 2015).
 
-![plot](L:\Documents\0_Jupyter\1_ML_GPR_hyperbole\Picture1.png)
+L:\Documents\0_Jupyter\1_ML_GPR_hyperbole\Picture1.png
 
 ### References
 ##### Ronneberger et al., 2015. U Net: Convolutional Networks for biomedical image segmentation . https://arxiv.org/pdf/1505.04597.pdf
